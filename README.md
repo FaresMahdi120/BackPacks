@@ -23,10 +23,9 @@
 
 ## General Information
 Common Questions:
-- What is the purpose of BackPacks? to make it easier for server to add customizable backpacks for thier servers!
+- What is the purpose of BackPacks? to make it easier for server's admin to add customizable backpacks for thier servers!
 - What do i do if i find a bug ? Report it, either in the [Issues](https://github.com/FaresMahdi120/BackPacks/issues) section or in my discord dms [Contact](#contact).
 - How to add new suggestions ? In my discord dms [Contact](#contact), or in the spigot[Coming soon] page.
-- Where i can donate ? well, yoou can't its free plugin for everyone :d
 - Where i can ask direct messages ? In my discord dms [Contact](#contact).
 
 ## Setup
@@ -77,16 +76,16 @@ Commands:
   ```
 * Player Commands:
   ```sh
-  /abp Help
+  /bp Help
   ```
   ```sh
-  /abp recipes
+  /bp recipes
   ```    
   ```sh
-  /abp Upgrade
+  /bp Upgrade
   ```   
   ```sh
-  /abp remove <backpack name>
+  /bp remove <backpack name>
   ```    
 
 
