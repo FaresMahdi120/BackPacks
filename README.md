@@ -77,16 +77,16 @@ Commands:
   ```
 * Player Commands:
   ```sh
-  /abp Help
+  /bp Help
   ```
   ```sh
-  /abp recipes
+  /bp recipes
   ```    
   ```sh
-  /abp Upgrade
+  /bp Upgrade
   ```   
   ```sh
-  /abp remove <backpack name>
+  /bp remove <backpack name>
   ```    
 
 

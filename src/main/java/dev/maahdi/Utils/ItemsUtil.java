@@ -29,7 +29,6 @@ public class ItemsUtil extends ItemStack {
         for (String line : lore) {
             loreof.add(ChatColor.translateAlternateColorCodes('&', line));
         }
-
         meta.getPersistentDataContainer().set(new NamespacedKey(plugin, namespacedkey), PersistentDataType.BYTE, (byte) 0);
         meta.setLore(loreof);
         meta.addItemFlags(flag1);
