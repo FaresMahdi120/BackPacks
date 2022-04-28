@@ -23,22 +23,23 @@
 
 ## General Information
 Common Questions:
-- What is the purpose of BackPacks? to make it easier for server's admin to add customizable backpacks for thier servers!
-- What do i do if i find a bug ? Report it, either in the [Issues](https://github.com/FaresMahdi120/BackPacks/issues) section or in my discord dms [Contact](#contact).
-- How to add new suggestions ? In my discord dms [Contact](#contact), or in the spigot[Coming soon] page.
-- Where i can ask direct messages ? In my discord dms [Contact](#contact).
+- What is the purpose of BackPacks? To make it easier for server to add customizable backpacks for thier servers!
+- What can I do if I find a bug? Report it, either in the [Issues](https://github.com/FaresMahdi120/BackPacks/issues) section or in my Discord dms [Contact](#contact).
+- How do I add new suggestions? In my Discord dms [Contact](#contact), or in the Spigot[Coming soon] page.
+- Where I can donate? well, you can't its free plugin for everyone :d
+- Where can I ask direct messages? In my discord dms [Contact](#contact).
 
 ## Setup
 BackPacks doesn't need any plugin to function [4/28/2022]!
-To start using this plugin you will need to drop the plugin.jar in the plugins
+To start using this plugin, you will need to drop the plugin.jar in the plugins
 folder and restart your server!
-As soon as the server restarts the BackPacks folder generate with all the config
-files to edit everythin in the plugin!
+As soon as the server restarts the BackPacks folder will generate with all the config
+files to edit everything in the plugin!
 
 ## Features
 Available list of all plugin's features: 
-- Highly customizable, you can change the backpacks item name & lore , slots,name-spaced-keys,openning message, removing message, giving message, permission!
-- Light wight!
+- Highly customizable, you can change the backpacks item name & lore, slots, name-spaced-keys, openning message, removing message, giving message, and permission!
+- Light Weight!
 - User Friendly!
 - Ability to craft the backpacks and upgrade them!
 - Ability to check every player's BackPack content in-game, and in data.yml!
