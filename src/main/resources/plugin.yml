@@ -1,0 +1,9 @@
+name: BackPacks
+version: '${project.version}'
+main: dev.maahdi.BackPacks
+api-version: 1.13
+authors: [ Maahdi ]
+description: A plugin that adds backpacks to minecraft!
+commands:
+  abp:
+    description: Admin Commands for BackPacks plugin!

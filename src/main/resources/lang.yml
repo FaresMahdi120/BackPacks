@@ -1,0 +1,37 @@
+BackPacks:
+  Basic:
+    name: "&7Basic BackPack"
+    lore:
+    - "&7Basic BackPack"
+    - "&7Has a total of &c8 &7slots"
+    - ""
+    - "&6Right click to open!"
+    slots: 8
+    opening-message: "&6You have opened &7Basic BackPack"
+    removing-message: "&6Your &7Basic BackPack &6has been removed!"
+    giving-message: "&6You have been giving the &7BasicBackpack!"
+    name-spaced-key: "basic_backpack"
+  Advanced:
+    name: "&9Advanced BackPack"
+    lore:
+    - "&9Advanced&7 BackPack"
+    - "&7Has a total of &c16 &7slots"
+    - ""
+    - "&6Right click to open!"
+    slots: 16
+    opening-message: "&6You have opened &9Advanced BackPack"
+    removing-message: "&6You have opened &9Advanced BackPack"
+    giving-message: "&6You have opened &9Advanced BackPack"
+    name-spaced-key: "advanced_backpack"
+  Extra:
+    name: "&cExtra BackPack"
+    lore:
+    - "&cExtra BackPack"
+    - "&7Has a total of &c16 &7slots"
+    - ""
+    - "&6Right click to open!"
+    slots: 16
+    opening-message: "&6You have opened &cExtra BackPack"
+    removing-message: "&6Your &cExtra BackPack &6has been removed!"
+    giving-message: "&6You have been giving the &cExtra BackPack"
+    name-spaced-key: "extra_backpack"
